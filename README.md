@@ -122,7 +122,7 @@ cosine_distance < threshold
 
 ### 4. Whisper Smoothing Stutters
 - Whisper removes stutter patterns
-- Solution: use Whisper only on small segments
+
 
 ---
 
